@@ -1,0 +1,18 @@
+name: OneWayChat
+version: 0.1-ALPHA
+description: Provides the ability for players to link multiple world chats.
+authors:
+  - qruet
+  - squeaky
+api-version: 1.15
+
+main: com.squeaky.onewaychat.OneWayChat
+prefix: OneWayChat
+
+commands:
+  perchat:
+    description: alias command
+    aliases: [pc]
+
+
+
